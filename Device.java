@@ -33,3 +33,8 @@ public abstract class Device {
         return count;
     }
 }
+
+// GUMIRAN, HANS JESSIE AUGUSTO M.
+// BSCS-2D
+// AI USED: CHATGPT
+// AI CONVO LINK: https://chatgpt.com/share/6931b1e5-5830-8010-96f7-95c37df6dc91
